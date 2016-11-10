@@ -10,7 +10,7 @@ INSTALLATION
 -----------
 ```
 npm instal -y -g gulp # install globally 
-npm install -y -S gulp # install 
+npm install -y -S gulp # install locally in the node_modules directory
 ```
 
 TASKS
